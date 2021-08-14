@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.7">
+      <module name="My_Application.backbutton" target="11" />
+      <module name="My_Application.Connectable" target="11" />
+      <module name="My_Application.myrxandroid" target="11" />
+      <module name="My_Application.retrofit_example" target="11" />
+      <module name="My_Application.RuvieInfo" target="11" />
+      <module name="My_Application.rxandroidbook" target="11" />
+      <module name="My_Application.temperatureObserver" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
